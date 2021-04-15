@@ -1,0 +1,22 @@
+{
+  "name": "celo",
+  "version": "1.0.0",
+  "description": "Celo 3d game",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [
+    "celo"
+  ],
+  "author": "DevIhor",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.126.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "webpack": "^5.26.3",
+    "webpack-cli": "^4.5.0"
+  }
+}
